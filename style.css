@@ -1,0 +1,55 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    
+    
+}
+h1,h3{
+    color: blue;
+}
+
+#list1
+{
+    color: #df0c0c;
+
+ 
+}
+
+
+.para1{
+    color :darkred;
+    width: 350px;
+    height: 150px;
+    padding: 20px;
+    border: 5px;
+     border-top-left-radius: 30px; 
+     border-bottom-right-radius: 30px;
+ border-color: blueviolet;
+ border-style:double;
+}
+.para2{
+  font-style: italic s;
+  font-family: sans-serif;
+  font-size: x-large;
+color: rgb(11, 24, 11);
+    width: 350px;
+    height: 150px;
+    padding: 30px;
+    border: 3px;
+    margin: auto;
+border-color: rgb(23, 158, 199);
+ border-style: solid;
+ border-top-right-radius: 30px;
+ border-bottom-left-radius: 30px;
+ overflow:scroll;
+}
+body{
+    background-color: rgb(241, 235, 236);
+    background-size:cover;
+    background-position: top right;
+ background-image: url(https://png.pngtree.com/element_our/png_detail/20180912/hat-chef--logo-and-symbols-vector-template-png_91612.jpg);
+    background-repeat: no-repeat;
+    
+
+
+}
